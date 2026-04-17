@@ -1,21 +1,63 @@
 ## Hi there 👋
 
-I am Lourrence Ed Senajon
+I am **Lourrence Ed Senajon (Oren)**  
+A 3rd-year Computer Science student and aspiring Software Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-<!--
-**Ezved/Ezved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I build web applications using **Laravel, MySQL, and Tailwind CSS**
+- 🎬 I also have experience in **video editing and content creation**
+- 📚 Currently improving my skills in **full-stack development**
+- 🎯 Goal: To become a professional **Software Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Projects
+
+### 🧺 E&B Laundry Hub Management System
+A web-based system for managing laundry operations:
+- Customer orders and tracking
+- Laundry status updates
+- Admin dashboard for management
+
+---
+
+### 🏢 Barangay Maa Service Request System
+A web-based request tracking system for barangay services:
+- Submit and manage service requests
+- User dashboard and admin panel
+- Status tracking for requests
+
+---
+
+## 🌱 Currently Learning
+- Advanced Laravel (authentication, controllers, APIs)
+- UI/UX design improvements
+- Clean code and project structuring
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** Laravel (PHP)
+- **Frontend:** Blade, HTML, CSS, Tailwind
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🤝 Looking to Collaborate On
+- Web development projects
+- Laravel-based systems
+- Beginner to intermediate software projects
+
+---
+
+## 📫 How to Reach Me
+- GitHub: https://github.com/Ezved
+- orenedsenajon@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I combine **technical development + creativity (video editing)** to build engaging digital projects.

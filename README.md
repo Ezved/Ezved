@@ -5,17 +5,17 @@ A 3rd-year Computer Science student and aspiring Software Developer.
 
 ---
 
-## 🚀 About Me
-- 💻 I build web applications using **Laravel, MySQL, and Tailwind CSS**
-- 🎬 I also have experience in **video editing and content creation**
-- 📚 Currently improving my skills in **full-stack development**
-- 🎯 Goal: To become a professional **Software Developer**
+## About Me
+- I build web applications using **Laravel, MySQL, and Tailwind CSS**
+- I also have experience in **video editing and content creation**
+- Currently improving my skills in **full-stack development**
+- Goal: To become a professional **Software Developer**
 
 ---
 
-## 🔭 Current Projects
+## Current Projects
 
-### 🧺 E&B Laundry Hub Management System
+### E&B Laundry Hub Management System
 A web-based system for managing laundry operations:
 - Customer orders and tracking
 - Laundry status updates
@@ -23,7 +23,7 @@ A web-based system for managing laundry operations:
 
 ---
 
-### 🏢 Barangay Maa Service Request System
+### Barangay Maa Service Request System
 A web-based request tracking system for barangay services:
 - Submit and manage service requests
 - User dashboard and admin panel
@@ -31,14 +31,14 @@ A web-based request tracking system for barangay services:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced Laravel (authentication, controllers, APIs)
 - UI/UX design improvements
 - Clean code and project structuring
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Backend:** Laravel (PHP)
 - **Frontend:** Blade, HTML, CSS, Tailwind
 - **Database:** MySQL
@@ -46,18 +46,18 @@ A web-based request tracking system for barangay services:
 
 ---
 
-## 🤝 Looking to Collaborate On
+## Looking to Collaborate On
 - Web development projects
 - Laravel-based systems
 - Beginner to intermediate software projects
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - GitHub: https://github.com/Ezved
-- orenedsenajon@gmail.com
+- Gmail: orenedsenajon@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 I combine **technical development + creativity (video editing)** to build engaging digital projects.
